@@ -20,7 +20,7 @@ This is the [real world](https://ukb-dt.github.io/dh/) before measurement. It is
 * **Optimization:** In AI, we perform **Loss Minimization**. We tweak the model until the error (loss) is as small as possible.
 * **Design:** We minimize complexity. We strip away features that don't support the core use case.
 
-### 4. UX/UI (The Translation)
+### 4. [UX](https://ukb-dt.github.io/ux/)/UI (The Translation)
 **The Interface:** The bridge between the machine's logic and the human's mind.
 Even the best algorithm (Minimization) is useless if a human cannot interact with it.
 * **UX (User Experience):** The flow. How does the user input their needs?
