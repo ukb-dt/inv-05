@@ -4,7 +4,7 @@ This framework maps the journey of turning entropy (the chaotic real world) into
 
 ### 1. Chaos (The Reality)
 **The Origin:** Everything starts as noise.
-This is the real world before measurement. It is infinite, unstructured, and overwhelming.
+This is the [real world](https://ukb-dt.github.io/dh/) before measurement. It is infinite, unstructured, and overwhelming.
 * **Context:** User behaviors, weather patterns, stock market fluctuations, or raw sensor inputs.
 * **The Challenge:** There is too much "signal" to process without a filter.
 
